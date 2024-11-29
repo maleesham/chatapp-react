@@ -14,4 +14,4 @@ githublink = https://github.com/maleesham/chatapp-react.git
 
 ## Installation
 Once you have downloaded or cloned this repository, run `npm install` inside the directory.
-Change the mongoDB url.
+run `npm start`.
