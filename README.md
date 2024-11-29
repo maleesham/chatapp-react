@@ -1,7 +1,7 @@
 # reactchatapp
 Realtime Chat App 
 
-githublink = 
+githublink = https://github.com/maleesham/chatapp-react.git
 
 ## Features/Components
 - Uses React Js for UI
